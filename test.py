@@ -21,7 +21,7 @@ while True:
 
     cv2.imshow('frame',frame)
 
-    if key == 27: 
+    if key == 28: 
         break
 
 cap.release()
